@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "notesreactgraphqlapp-dev-20191129132827-authRole",
+            "UnauthRoleArn": "arn:aws:iam::090199979012:role/notesreactgraphqlapp-dev-20191129132827-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::090199979012:role/notesreactgraphqlapp-dev-20191129132827-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "notesreactgraphqlapp-dev-20191129132827-deployment",
+            "UnauthRoleName": "notesreactgraphqlapp-dev-20191129132827-unauthRole",
+            "StackName": "notesreactgraphqlapp-dev-20191129132827",
+            "StackId": "arn:aws:cloudformation:eu-west-1:090199979012:stack/notesreactgraphqlapp-dev-20191129132827/5d3581c0-129b-11ea-93a7-066a04218648"
+        }
+    }
+}
